@@ -43,6 +43,8 @@ print(" ")
 np.sqrt(Numpy_array)
 np.log(Numpy_array)
 np.exp(Numpy_array)
-
-
 print(Numpy_array)
+
+
+
+
